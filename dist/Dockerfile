@@ -1,4 +1,3 @@
-ARG IMAGE
 FROM unityci/editor:ubuntu-2022.3.10f1-linux-il2cpp-2
 
 LABEL "com.github.actions.name"="Unity - Request Activation File"
